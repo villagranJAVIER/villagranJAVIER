@@ -1,6 +1,6 @@
 # Hola 👋, soy Javier Villagran
 
-### Desarrollador Web Full-Stack | Laravel • Vue.js 3 • Python
+### Desarrollador Web Full-Stack | Laravel • Vue.js 3 • JS
 
 Desarrollador Full-Stack con más de 2 años de experiencia transformando requerimientos complejos en soluciones digitales escalables y seguras. Especialista en la automatización de procesos críticos que impactan directamente en la rentabilidad y captación de clientes. Poseo una sólida base en arquitectura de datos (ER) y administración de infraestructura en la nube (VPS/Linux).
 
