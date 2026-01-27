@@ -21,9 +21,7 @@ Desarrollador Full-Stack con más de 2 años de experiencia transformando requer
 
 * **CCR Seguros:** Lideré la transformación digital automatizando el ciclo de emisión de pólizas e integrando pagos con Stripe y notificaciones vía WhatsApp Business API.
 * **CECYTEM (PIVITMor):** Diseñé y normalicé la arquitectura de datos (ER) para información crítica gubernamental y coordiné el despliegue en entornos de producción.
-* **Cooperativa San Andrés:** Modernicé la imagen institucional mediante el desarrollo de una SPA interactiva en Vue 3 con alto impacto visual.
-* **Location Intelligence:** Implementé sistemas de geolocalización avanzada y algoritmos de centroides para estrategias de marketing basadas en datos.
-
+* 
 ---
 
 ### 🎯 Enfoque Profesional
@@ -38,9 +36,9 @@ Desarrollador Full-Stack con más de 2 años de experiencia transformando requer
 
 - **Ubicación:** Morelos, México
 - **Email:** javiervillagranplacencio@gmail.com
-- **LinkedIn:** [Tu enlace aquí]
+- **LinkedIn:** https://www.linkedin.com/in/javier-villagran-57762b1bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=villagranJAVIER&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=villagranJAVIER&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
