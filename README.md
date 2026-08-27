@@ -34,7 +34,7 @@ Desarrollador Full-Stack con más de 2 años de experiencia transformando requer
 
 ### 📫 Contacto
 
-- **Ubicación:** Morelos, México
+- **Ubicación:** CDMX, México
 - **Email:** javiervillagranplacencio@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/javier-villagran-57762b1bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
